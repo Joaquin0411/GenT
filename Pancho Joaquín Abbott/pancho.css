@@ -1,0 +1,45 @@
+*{
+    padding-top: 10px;
+    background-color: rgb(201, 201, 169;
+}
+
+.container{
+    margin: auto;
+}
+
+.pan{
+    background-color: #DEB887;
+    height: 100px;
+    width: 500px;
+    position: relative;
+    left: 100px;
+}
+
+
+
+#salchicha {
+    border-radius: 300px;
+    background-color: #A52A2A;
+    border-top: solid5pxrgba(145, 46, 39, 0.507);
+    border-bottom: solid5pxrgba(145, 46, 39, 0.507);
+    height: 60px;
+    width: 700px;
+}
+
+
+
+#arriba{
+    border-radius: 100px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    border-bottom: solid10px#B5956C;
+}
+
+
+
+#abajo{
+    border-radius: 100px;
+    border-bottom-left-radius: 300px;
+    border-bottom-right-radius: 300px;
+    border-top: solid10px#B5956C;
+}
